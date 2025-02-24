@@ -3,18 +3,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  
-  [![Stargazers][stars-shield]][stars-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Issues][issues-shield]][issues-url]
-  [![License][license-shield]][license-url]
-  
-</div>
 
 
   <p align="center">
-    This is my final project for IT002 (Object-oriented Programming) at the University of Information Technology (UIT-VNUHCM)
+    This is my final project for IT002 (Object-oriented Programming) at the University of Information Technology - VNUHCM
     <br />
     <a href="https://github.com/chisngooo/IT002-PirateAdventure"><strong>Document »</strong></a>
     <br />
