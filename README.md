@@ -3,15 +3,13 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-
   <p align="center">
     This is my final project for IT002 (Object-oriented Programming) at University of Information Technology - VNUHCM
     <br />
     <a href="https://github.com/chisngooo/IT002-PirateAdventure"><strong>Document »</strong></a>
     <br />
-    [![Video Title](https://img.youtube.com/vi/1URyCFdNOnk/0.jpg)](https://youtu.be/1URyCFdNOnk)
-
+    <!-- Video thumbnail -->
+    [![Pirate Adventure Game Demo](https://img.youtube.com/vi/1URyCFdNOnk/0.jpg)](https://youtu.be/1URyCFdNOnk)
   </p>
 </div>
 
