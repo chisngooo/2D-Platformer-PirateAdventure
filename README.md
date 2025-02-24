@@ -30,19 +30,23 @@
 
 
 ## INSTALLATION REQUIRED
+- Python == 3.12.9
 
-- python 3.12.9
-- Pygame-ce 2.4.1
-  
-   ```shell
-   pip install pygame-ce 2.4.1
- - PyTMX 24.3.1
-   ```shell
-   pip install pytmx 24.3.1
 
-## INSTRUCTION MANUAL
-just download and run the main.py file
-
+## USAGE
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/chisngooo/2D-Platformer-PirateAdventure
+   cd 2D-Platformer-PirateAdventure
+   ```
+2. Install necessary libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run and Play game
+   ```bash
+   python3 main.py
+   ```
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/chisngooo/IT002-PirateAdventure.svg?style=for-the-badge
