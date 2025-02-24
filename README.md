@@ -43,9 +43,9 @@
    ```bash
    pip install -r requirements.txt
    ```
-3. Run and Play game
+3. Run and play game
    ```bash
-   python3 main.py
+   python3 RUN_GAME.py
    ```
 
 
