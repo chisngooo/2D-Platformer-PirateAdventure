@@ -6,7 +6,7 @@
 
 
   <p align="center">
-    This is my final project for IT002 (Object-oriented Programming) at the University of Information Technology - VNUHCM
+    This is my final project for IT002 (Object-oriented Programming) at University of Information Technology - VNUHCM
     <br />
     <a href="https://github.com/chisngooo/IT002-PirateAdventure"><strong>Document »</strong></a>
     <br />
@@ -23,39 +23,22 @@
 
 - [INSTRUCTION MANUAL](#INSTRUCTION-MANUAL)
 
-<!-- ABOUT THE PROJECT -->
-
-<!--## Ý tưởng
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) 
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) 
-
-viết đại cái gì vô đây nè
-
-<p align="right">(<a href="#readme-top">Lên đầu trang</a>)</p> -->
 
 ## LANGUAGE USAGE
-
-<!-- - [![Flutter][flutter]][flutter-url]
-- [![Firebase][firebase]][firebase-url] -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-<!-- GETTING STARTED -->
-
-
 ## INSTALLATION REQUIRED
 
-- Python
-- Pygame
+- python >= 3.12.9
+- Pygame-ce 2.4.1
   
    ```shell
-   pip install pygame-ce
- - PyTMX
+   pip install pygame-ce 2.4.1
+ - PyTMX 24.3.1
    ```shell
-   pip install pytmx
+   pip install pytmx 24.3.1
 
 ## INSTRUCTION MANUAL
 just download and run the main.py file
