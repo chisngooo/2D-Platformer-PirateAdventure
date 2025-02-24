@@ -31,7 +31,7 @@
 
 ## INSTALLATION REQUIRED
 
-- python >= 3.12.9
+- python 3.12.9
 - Pygame-ce 2.4.1
   
    ```shell
