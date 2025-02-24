@@ -8,8 +8,7 @@
     <br />
     <a href="https://github.com/chisngooo/IT002-PirateAdventure"><strong>Document »</strong></a>
     <br />
-    <!-- Video thumbnail -->
-    [![Pirate Adventure Game Demo](https://img.youtube.com/vi/1URyCFdNOnk/0.jpg)](https://youtu.be/1URyCFdNOnk)
+    Watch the gameplay video: [Pirate Adventure Game Demo](https://youtu.be/1URyCFdNOnk)
   </p>
 </div>
 
@@ -46,10 +45,7 @@
    ```bash
    python3 RUN_GAME.py
    ```
-### Giải thích:
-1. **Hình thu nhỏ video**: Sử dụng ảnh thu nhỏ của video YouTube bằng cú pháp:
-   ```markdown
-   [![Pirate Adventure Game Demo](https://img.youtube.com/vi/1URyCFdNOnk/0.jpg)](https://youtu.be/1URyCFdNOnk)
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/chisngooo/IT002-PirateAdventure.svg?style=for-the-badge
 [contributors-url]: https://github.com/chisngooo/IT002-PirateAdventure/graphs/contributors
