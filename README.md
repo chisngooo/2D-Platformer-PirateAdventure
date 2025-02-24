@@ -10,6 +10,7 @@
     <br />
     <a href="https://github.com/chisngooo/IT002-PirateAdventure"><strong>Document »</strong></a>
     <br />
+    [![Video Title](https://img.youtube.com/vi/1URyCFdNOnk/0.jpg)](https://youtu.be/1URyCFdNOnk)
 
   </p>
 </div>
