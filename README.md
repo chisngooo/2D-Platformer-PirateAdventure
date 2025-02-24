@@ -1,4 +1,4 @@
-# Pirate Adventure
+# Pirate Adventure - 2D Platformer
  
 <a name="readme-top"></a>
 
